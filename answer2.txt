@@ -1,0 +1,10 @@
+1. gitignore is a kind of file that contains ignore rules.It allows us to ignore the Git repository files.
+   For a Java project it should contain rules that are to be shared with the repository.
+
+2.fast forward in Git - This means to update the HEAD pointer so that it's new value is direct descendant of the before value.
+ which is, the before value is a parent, or grandparent, etc.
+
+3.We need different brances for stable production Releases.
+For example if you are having a project on which you are working right now which is Release.2021 but there is new release coming up which needs to get started before older version is completed and so if we name new version as Release2023 we can work on both releases at a time.
+
+4.We can have as many number of remote repositories we need. 
